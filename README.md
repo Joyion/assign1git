@@ -3,5 +3,6 @@ Joyion Timmons
 
 First comment
 
-This is a change on newBranch
+This is a change on newBranch  
+
 testBranch change
